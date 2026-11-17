@@ -1,0 +1,6 @@
+{
+  "name": "misternord",
+  "description": "Moderne AI-cocreated websites voor €399,- inclusief 1 jaar domein en hosting door misternord (Groningen). Binnen 5 dagen live, geen website geen factuur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
